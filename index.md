@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Welcome traveller! There is no real goal or direction of this blog, as it's more of an outlet for me to discuss and make sense of particular thoughts I've been having. As should be the norm, the thoughts and views expressed in these writings are of my own, not some other third party.
+Hello there, and welcome! There is no real goal or direction of the content you will find here, as it's more of an outlet for me to discuss and make sense of particular thoughts I've been having. As should be the norm, the thoughts and views expressed in these writings are of my own, not some other third party.
