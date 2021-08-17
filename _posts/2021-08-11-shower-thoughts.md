@@ -2,10 +2,8 @@
 layout: post
 title: 'Shower thoughts'
 date: 2021-08-11 14:55
-tags: [life]
-summary: 
+tags: [personal, general]
 ---
-
 
 Dear world,
 
@@ -17,9 +15,9 @@ I wish I could go back to that day you came over and we were going to draw in th
 
 I also wish I could go back to that one time at breakfast when you wanted to play some weird knuckles game. I suggested we play sticks instead, which failed miserably. I didn't even know the rules to the game I suggested, bloody goose.
 
-I miss the mushrooms at that random cafe. That breakfast was so bomb, and those soy lattes were unreal. Delicious. The walk afterwards too, critiqueing peoples running technique, and the birds in the trees. A truly blissful day. And I wouldn't change anything.
+I miss the mushrooms at that random cafe. That breakfast was so bomb, and those soy lattes were unreal. Delicious. The walk afterwards too, critiquing peoples running technique, and the birds in the trees. A truly blissful day. And I wouldn't change anything.
 
-The way you would go dead legged when I held you. Never had that happen before, and the first time you did it I was genuinley shocked. How I miss this. So random.
+The way you would go dead legged when I held you. Never had that happen before, and the first time you did it I was genuinely shocked. How I miss this. So random.
 
 I especially enjoyed you talking about your art and the different coloured pencils. It was the most striking thing I noticed in your art when I first got to know you, and the reasoning even more so. How you would pick at random a pencil and force yourself to use it, because it was good for the brain. How cool. The squid too, and you not liking the black part of it, which happened to be my favourite bit. The bold stroke of the drawing. Maybe this is why it didn't work. A slight but significant difference in our cores. Or maybe I'm just dramatic lol. This I already know.
 
@@ -39,7 +37,7 @@ Something I want to do and have for a while is get a little notepad and just jot
 
 I’ve recently realised maybe four poached eggs is a bit eggsessive (sorry).
 
-What is is an appriopriate way to translate 'just a trim' to a hairdresser without it meaning four kilometers?
+What is is an appropriate way to translate 'just a trim' to a hairdresser without it meaning four kilometers?
 
 Why is mariocart split vertically and not horizontally??
 

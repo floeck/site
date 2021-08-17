@@ -2,10 +2,8 @@
 layout: post
 title: 'This ones for you'
 date: 2021-08-10 08:03
-tags: [life]
-summary: 
+tags: [personal]
 ---
-
 
 Dear squid,
 
@@ -15,7 +13,7 @@ I miss all your little quirks, idiosyncrasies and nuances, I felt only I could s
 
 I miss the little sounds you'd make and movements with your hand, like 'owa owa' which I don't know what it means, but it made me laugh.
 
-I miss the little head bobs, and ossiclations of your voice. The weird sucking sound you'd make and your little ears when you smiled.
+I miss the little head bobs, and oscillations of your voice. The weird sucking sound you'd make and your little ears when you smiled.
 
 I miss your view on buildings and things as we roamed the streets.
 
@@ -23,7 +21,7 @@ I miss you putting your hand in my big jacket pockets as we walked.
 
 I miss you leaning on me as you skated.
 
-I miss seeing those big georgeous eyebrows, dance around.
+I miss seeing those big gorgeous eyebrows, dance around.
 
 I miss the way you would squirm when I held you.
 
@@ -33,7 +31,7 @@ I'm sorry that one time when we were observing the 'should-be' communist pigeons
 
 I'm sorry that one time we were watching that cool anime movie I was passing out half-way. Truth is, I smoked too much weed that evening and was losing interest and was getting tired. I compromised a moment for nothing but a plant.
 
-I'm sorry that we never did get to see a drive-thru movie. There was ample oppurtunity, and I know oh how bad you wanted to, but we never did.
+I'm sorry that we never did get to see a drive-thru movie. There was ample opportunity, and I know oh how bad you wanted to, but we never did.
 
 I'm sorry we never watched a true horror film like you always wanted. Instead opting for the less scary, still fucked up film about someone holding someone else against their will.
 

@@ -2,10 +2,8 @@
 layout: post
 title: "Let's do this again"
 date: 2021-08-12 15:59
-tags: [life]
-summary: 
+tags: [personal, general]
 ---
-
 
 Dear world,
 
@@ -17,22 +15,20 @@ I remember vividly in a bar over chess talking about how neither of us was think
 
 I think now this was too fast, like a fire built of paper. Beautiful, if only for a moment. But lacked that core log. The one that burns warm and deep. Maybe this is a gross over simplification, but it's the most apt description I have right now.
 
-I know I sounded a little sour about my papa in the previous post, but he was a great father. I just wish he was nicer to my mom sometimes. Something that makes me laugh about him is that everytime, almost without fail, we end the conversation and he will accidentally call me Luis, and correct to Oskar. It sounds a little like "luis..aaaarghhh..oskarhaha". Makes me laugh ere time.
+I know I sounded a little sour about my papa in the previous post, but he was a great father. I just wish he was nicer to my mom sometimes. Something that makes me laugh about him is that every-time, almost without fail, we end the conversation and he will accidentally call me Luis, and correct to Oskar. It sounds a little like "luis..aaaarghhh..oskarhaha". Makes me laugh ere time.
 
 I got my lil notepads today, and I'm pretty stoked. $2.5 for like, four or five?? What a fucking bargain. I couldn't find a pencil though. A smaller one anyway, so I've settled for a pen for now. This just reminded me of the little notes you'd write on my sticky notes occasionally, critiquing my pens. I wish I didn't burn these.
 
 In other news, apparently Western Australia has made it illegal to protest outside abortion clinics. Can I get a hallelujah?
 
-It's no ones decision but the person involved to decide what they want to do. This is a big win. I got no idea what it's like being pregnant, but I can imagine it's pretty fucking difficult. Especailly when you're seeking help.
+It's no ones decision but the person involved to decide what they want to do. This is a big win. I got no idea what it's like being pregnant, but I can imagine it's pretty fucking difficult. Especially when you're seeking help.
 
-Also, my footy team I follow (Port Adelaide FC) is finally getting a womens team which I'm stoked about. Not til 2023 but it's something to look forwards to. The women play an unreal brand of footy. Sort of hard to believe it's taken this long to get the league going, but better late than never. I especially love the comradery amongst the players, even from opposing sides. They seem to give each other more respect than the mens.
+Also, my footy team I follow (Port Adelaide FC) is finally getting a women's team which I'm stoked about. Not til 2023 but it's something to look forwards to. The women play an unreal brand of footy. Sort of hard to believe it's taken this long to get the league going, but better late than never. I especially love the camaraderie amongst the players, even from opposing sides. They seem to give each other more respect than the mens.
 
-Once the juniors get more oppurtunities and the draft quality increases as a by product of this the quality is only going to improve. I mean have you seen a mens game of footy in the early days? Shocking skills. But the passion was there, and evne more evident in the womens now. Exciting times.
+Once the juniors get more opportunities and the draft quality increases as a by product of this the quality is only going to improve. I mean have you seen a mens game of footy in the early days? Shocking skills. But the passion was there, and even more evident in the women's now. Exciting times.
 
 This is all I got for now, but over the next few days I'm going to work on the PigeonsTalk app and talk a little about that on Sunday and anything else that floats around in my head.
 
 Until then,
 
 Good day, Oskar
-
-
