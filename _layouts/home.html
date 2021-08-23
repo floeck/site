@@ -12,6 +12,8 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
+  <!--
+
   <div class="tags">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -26,6 +28,8 @@ layout: default
       {%- endfor -%}
     {%- endif -%}
   </div>
+
+  -->
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
